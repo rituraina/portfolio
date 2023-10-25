@@ -14,6 +14,9 @@ body{
     list-style: none;
  
 }
+.location{
+   margin-bottom: 5px;
+}
 .horizontal-list li{
     display: inline-block;
     margin: 0px 10px 10px 0px;
@@ -197,12 +200,17 @@ justify-content:center;
  }
  .mb-yel{
     background-color: rgb(27, 182, 238);
+    
  }
  .mb-ye{
    background-color: rgb(244, 37, 6);
 }
 .mb-y{
    background-color: rgb(68, 157, 160);
+   
+}
+.bootsmall{
+   font-size:2px;
 }
 
  .timeline{
